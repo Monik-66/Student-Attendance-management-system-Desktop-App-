@@ -1,0 +1,4015 @@
+{
+  "sections": {
+    "4CSE01": {
+      "sectionCode": "4CSE01",
+      "proctorName": "A Ranjini",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Dr. Jayarama H R"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "A Ranjini"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Shilpa Vijaykumar"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Deepak P Rao Thodkar"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Alekhya M K"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Marjana Khathima"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Vikram NR"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Vishnupriya V"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "A Ranjini  (B1 and B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Deepak P Rao Thodkar  (B1 and B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Alekhya M K (B1)  / Marjana Khathima  (B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Dr. Gopi"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "A Ranjini  & Vishnupriya V"
+        }
+      ]
+    },
+    "4CSE02": {
+      "sectionCode": "4CSE02",
+      "proctorName": "Deepak P Rao Thodkar",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Jagadish Angadi"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "A Ranjini"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Shilpa Vijaykumar"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Deepak P Rao Thodkar"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Chaithra HV"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Marjana Khathima"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Vikram NR"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Vishnupriya V"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "A Ranjini  (B1 and B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Deepak P Rao Thodkar (B1)  /   Suresh J (B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Dr. Bhagya D (B1) / Marjana Khathima  (B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Ananth"
+        }
+      ]
+    },
+    "4CSE03": {
+      "sectionCode": "4CSE03",
+      "proctorName": "Marjana Khathima",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Jagadish Angadi"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "A Ranjini"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Shilpa Vijaykumar"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Deepak P Rao Thodkar"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Chaithra D"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Marjana Khathima"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Dr. Asha PN"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Vishnupriya V"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Shilpa Vijaykumar (B1) / Lakshmi K (B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Vishnupriya V (B1) / Priya HM (B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Dr. Bhagya D (B1)  / Marjana Khathima  (B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Dr. Gopi"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Marjana Khathima & Amulya K"
+        }
+      ]
+    },
+    "4CSE04": {
+      "sectionCode": "4CSE04",
+      "proctorName": "Deepika N",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Dr. Jayarama H R"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Dr. Saroja"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Deepika N"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Akshitha S"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Chaithra D"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Dr. Bhagya D"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Dr. Asha PN"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Vishnupriya V"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Dr. Saroja (B1 and B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Akshitha S (B1 and B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Chaithra D (B1) / Chethana Ganga N S (B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Dr. Gopi"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Deepika N and  Dr. Saroja"
+        }
+      ]
+    },
+    "4CSE05": {
+      "sectionCode": "4CSE05",
+      "proctorName": "Akshitha S",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Dr. Jyothi Prasad Gorantla"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Dr. Saroja"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Deepika N"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Akshitha S"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Chaithra D"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Dr. Bhagya D"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Dr. Asha PN"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Vishnupriya V"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Dr. Saroja  (B1)  /  Deepika N (B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Vishnupriya(B1)/ Akshitha S (B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Chaithra D (B1)/ Dr. Bhagya D (B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Neeraj"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Akshitha S & Dr. Bhagya D"
+        }
+      ]
+    },
+    "4CSE06": {
+      "sectionCode": "4CSE06",
+      "proctorName": "Chaithra D   &   Dr. Asha PN",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Dr. Jyothi Prasad Gorantla"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Dr. Saroja"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Deepika N"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Akshitha S"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Chaithra D"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Dr. Emmanuel Rajarathnam"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Dr. Asha PN"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Vishnupriya V"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Deepika N (B1 and B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Lokesh HD (B1 and B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Chaithra D (B1) /  Amulya K (B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Neeraj"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Chaithra D   &   Dr. Asha PN"
+        }
+      ]
+    },
+    "4CSE07": {
+      "sectionCode": "4CSE07",
+      "proctorName": "Durga Prasad Roy",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Dr. Manoj Kumar C N"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Durga Prasad Roy"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Ranganatha H R"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Amarsri A"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Alekhya M K"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Akshatha Rao M"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Lokesh HD"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Suresh J"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Durga Prasad Roy  (B1 and B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Amarsri A   (B1 and B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Alekhya M K (B1) / Akshatha Rao M (B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Gopi"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Durga Prasad Roy  &    Akshatha Rao M"
+        }
+      ]
+    },
+    "4CSE08": {
+      "sectionCode": "4CSE08",
+      "proctorName": "Ranganatha H R    &    Amarsri A",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Dr. Jayarama H R"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Durga Prasad Roy"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Ranganatha H R"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Amarsri A"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Alekhya M K"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Akshatha Rao M"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Lokesh HD"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Suresh J"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Ranganatha H R (B1) / Durga Prasad Roy (B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Amarsri A (B1)  /  Lokesh HD( B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Alekhya M K (B1) / Akshatha Rao M (B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Neeraj"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Ranganatha H R    &    Amarsri A"
+        }
+      ]
+    },
+    "4CSE09": {
+      "sectionCode": "4CSE09",
+      "proctorName": "Alekhya M K",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Dr. Manoj Kumar C N"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Durga Prasad Roy"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Ranganatha H R"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Amarsri A"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Alekhya M K"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Akshatha Rao M"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Lokesh HD"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Suresh J"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Ranganatha H R (B1) / Durga Prasad Roy (B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "B Parkavi(B2) /  Dr. Raghavendra Rao (B1)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Ranjini (B1) / Akshatha Rao M (B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Dr. Gopi"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Alekhya M K   &   Lokesh HD"
+        }
+      ]
+    },
+    "4CSE10": {
+      "sectionCode": "4CSE10",
+      "proctorName": "Kruthika G C",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Dr. Vinodh K S"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Kruthika G C"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Chaithra KR"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Vijay Bajododiya"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Sneha I Kadri"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Anand"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Lokesh HD"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Suresh J"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Kruthika G C (B1 and B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Vijay Bajododiya(B1 and B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Dr. Ganesha M (B1)/ Anand(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Dr. Gopi"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Kruthika G C  &   Jagadamba TS"
+        }
+      ]
+    },
+    "4CSE11": {
+      "sectionCode": "4CSE11",
+      "proctorName": "Anand",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Dr. Vinodh K S"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Kruthika G C"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Chaithra KR"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Vijay Bajododiya"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Chethana Ganga N S"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Anand"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Lokesh HD"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Suresh J"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Kruthika G C (B1 and B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Vijay Bajododiya(B1) / Monisha R (B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Ganesha G (B1) / Anand ( B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Neeraj"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Anand   &  Suresh J"
+        }
+      ]
+    },
+    "4CSE12": {
+      "sectionCode": "4CSE12",
+      "proctorName": "Vijay Bajododiya",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Dr. Vinodh K S"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Kruthika G C"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Chaithra KR"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Vijay Bajododiya"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Sheela CR"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Anand"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Lokesh HD"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Suresh J"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Chaithra KR(B1 &B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Suresh J(B1) / Suhas  K S(B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Indranil Rakshith (B1) / Anand(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Ananth"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Vijay Bajododiya   &   Chaithra KR"
+        }
+      ]
+    },
+    "4CSE13": {
+      "sectionCode": "4CSE13",
+      "proctorName": "Nithya S",
+      "subjects": [
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Nithya S"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Aparna BS"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Dr. Pavan Kumar Naik"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Dr. Ganesha M"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "D S Rakeshgowda"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "B Parkavi"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Harsha G K"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Aparna BS(B1)/ Nithya S  (B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Harsha G K(B1)  /  Dr. Pavan Kumar Naik ( B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Dr. Ganesha M(B1)/ D S Rakeshgowda(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Dr. Gopi"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Nithya S  &   Dr. Pavan Kumar Naik"
+        }
+      ]
+    },
+    "4CSE14": {
+      "sectionCode": "4CSE14",
+      "proctorName": "D S Rakeshgowda",
+      "subjects": [
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Nithya S"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Aparna BS"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Dr. Pavan Kumar Naik"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Dr. Ganesha M"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "D S Rakeshgowda"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "B Parkavi"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Harsha G K"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Nithya S(B1&B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Harsha G K(B1) /  Roopa Banakar (B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Sheela CR(B1) / D S Rakeshgowda(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Dr. Gopi"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "D S Rakeshgowda   &   Dr. Ganesha M"
+        }
+      ]
+    },
+    "4CSE15": {
+      "sectionCode": "4CSE15",
+      "proctorName": "Harsha GK",
+      "subjects": [
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Nithya S"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Aparna BS"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Dr. Pavan Kumar Naik"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Dr. Ganesha M"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "D S Rakeshgowda"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "B Parkavi"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Harsha G K"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Aparna BS(B1)/ Nithya S(B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Harsha G K(B1) / Dr. Pavan Kumar Naik(B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Indrakumar D R(B1)/ Chaithra D(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Neeraj"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Harsha GK    &  Aparna BS"
+        }
+      ]
+    },
+    "4CSE16": {
+      "sectionCode": "4CSE16",
+      "proctorName": "Shilpa Vantakar",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Thejaswini J N"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Kruthika G C"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Shobha Rani"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Shilpa Vantakar"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Chethana Ganga N S"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Suhas KS"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "B Parkavi"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Harsha G K"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Vijayalakshmi H R(B2) /    Panchami  (B1 )"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Suhas KS(B1)/ Shilpa Vantakar(B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Chethana Ganga N S(B1)/ Vishwanath P4(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Dr. Gopi"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Shilpa Vantakar  &   B Parkavi"
+        }
+      ]
+    },
+    "4CSE17": {
+      "sectionCode": "4CSE17",
+      "proctorName": "Chethana Ganga N S",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Thejaswini J N"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Veena N"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Shobha Rani"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Shilpa Vantakar"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Chethana Ganga N S"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Suhas KS"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "B Parkavi"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Harsha G K"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Aparna BS (B2 / Prakruthi Pandey ( B1)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Shilpa Vantakar(B1& B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Chethana Ganga N S(B1)/ Chaithra HV(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Ananth"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Chethana Ganga N S    &    Suhas KS"
+        }
+      ]
+    },
+    "4CSE18": {
+      "sectionCode": "4CSE18",
+      "proctorName": "Shobha Rani",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Thejaswini J N"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Durga Prasad Roy"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Shobha Rani"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Shilpa Vantakar"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Chethana Ganga N S"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Suhas KS"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "B Parkavi"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Harsha G K"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Shobha Rani(B1& B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Suhas KS(B1)/Vikram (B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Dr. Ganesha M(B1)/ Ganesha G(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Neeraj"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Shobha Rani    &    Vikram NR"
+        }
+      ]
+    },
+    "4CSE19": {
+      "sectionCode": "4CSE19",
+      "proctorName": "M. Srijeimathy",
+      "subjects": [
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Lakshmi K"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "M. Srijeimathy"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Vani BA"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Indranil Rakshith"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Vani Valasraj"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Priya Pandey"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Nisarga"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Lakshmi K (B1&B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Vani BA (B1&B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Indranil Rakshith(B1)/Vani Valasraj(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Ananth"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "M. Srijeimathy   &   Indranil Rakshith"
+        }
+      ]
+    },
+    "4CSE20": {
+      "sectionCode": "4CSE20",
+      "proctorName": "Vani BA",
+      "subjects": [
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Lakshmi K"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "M. Srijeimathy"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Vani BA"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Indranil Rakshith"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Vani Valasraj"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Priya Pandey"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Nisarga"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Prakruthi Pandey (B1) /  Nisarga ( B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Vani BA(B1)/ M. Srijeimathy(B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Indranil Rakshith(B1)/Vani Valasraj(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Ananth"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Vani BA    &   Lakshmi K"
+        }
+      ]
+    },
+    "4CSE21": {
+      "sectionCode": "4CSE21",
+      "proctorName": "Vani Valasraj",
+      "subjects": [
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Lakshmi K"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "M. Srijeimathy"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Vani BA"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Indranil Rakshith"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Vani Valasraj"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Priya Pandey"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Nisarga"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Shilpa Vijayakumar (B1) / Lakshmi K (B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "M. Srijeimathy(B1 & B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Indranil Rakshith(B1)/Vani Valasraj(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Neeraj"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Vani Valasraj   &   Nisarga"
+        }
+      ]
+    },
+    "4CSE22": {
+      "sectionCode": "4CSE22",
+      "proctorName": "Priya Pandey",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Roselin Mary J"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Prakruthi Pandey"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Dr. Kavitha"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Divya Visakh"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Prabodh C P"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Muthupandian"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Priya Pandey"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Nisarga"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Dr. Kavitha(B1)/  Prakruthi Pandey(B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Divya Visakh( B1 & B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Prabodh C P(B1)/ Indranil Rakshith(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Ananth"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Priya Pandey  &  Prabodh C P"
+        }
+      ]
+    },
+    "4CSE23": {
+      "sectionCode": "4CSE23",
+      "proctorName": "Divya Visakh",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Roselin Mary J"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Prakruthi Pandey"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Dr. Kavitha"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Divya Visakh"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Prabodh C P"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Muthupandian"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Priya Pandey"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Nisarga"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Prakruthi Pandey (B1)/ Dr. Kavitha(B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Divya Visakh(B1)/ Priya Pandey(B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Prabodh C P(B1)/ Muthupandian(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Ananth"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Divya Visakh  &  Dr. Kavitha"
+        }
+      ]
+    },
+    "4CSE24": {
+      "sectionCode": "4CSE24",
+      "proctorName": "Muthupandian",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Roselin Mary J"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Prakruthi Pandey"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Dr. Kavitha"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Divya Visakh"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Prabodh C P"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Muthupandian"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Priya Pandey"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Nisarga"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Nisarga(B1 & B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Vikram (B1)/ Priya Pandey(B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Prabodh C P(B1)/ Muthupandian(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Ananth"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Muthupandian  &   Prakruthi Pandey"
+        }
+      ]
+    },
+    "4CSE25": {
+      "sectionCode": "4CSE25",
+      "proctorName": "Monisha R",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Pushpa  S"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Shruthi AS"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Kh Jinnatul Islam"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Monisha R"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Dr. Srinivas Gowda"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Ranjini"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Dr.Krishnamurthy H"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Denny Andrews"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Shruthi AS (B1 & B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Monisha R (B1 & B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Dr. Srinivas Gowda(B1)/ Ranjini(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Neeraj"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Monisha R   &     Kh Jinnatul Islam"
+        }
+      ]
+    },
+    "4CSE26": {
+      "sectionCode": "4CSE26",
+      "proctorName": "Shruthi AS",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Pushpa  S"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Shruthi AS"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Kh Jinnatul Islam"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Monisha R"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Dr. Srinivas Gowda"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Ranjini"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Dr.Krishnamurthy H"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Denny Andrews"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Shruthi AS ( B1 & B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Suresh J  (B1) /  Priya H M (B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Dr. Srinivas Gowda(B1)/ Ranjini(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Ananth"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Shruthi AS   &   Dr. Srinivas Gowda"
+        }
+      ]
+    },
+    "4CSE27": {
+      "sectionCode": "4CSE27",
+      "proctorName": "Ranjini",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Pushpa  S"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Shruthi AS"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Kh Jinnatul Islam"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Monisha R"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Dr. Srinivas Gowda"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Ranjini"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Dr.Krishnamurthy H"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Denny Andrews"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Kh Jinnatul Islam( B1 & B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Dr.Krishnamurthy H(B1) /  Dr. Raghavendra Rao (B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Dr. Srinivas Gowda(B1)  / Alekhya(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Dr. Gopi"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Ranjini    &    Dr.Krishnamurthy H"
+        }
+      ]
+    },
+    "4CSE28": {
+      "sectionCode": "4CSE28",
+      "proctorName": "Vijayalakshmi HR",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Sushma P M"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Anusha"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Vijayalakshmi HR"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Shilpa R"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Chaithra HV"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Dr. Emmanuel Rajarathnam"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Dr.Krishnamurthy H"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Denny Andrews"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Vijayalakshmi HR(B1)/ Anusha(B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Shilpa R( B1& B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Chaithra HV(B1) / Muthupandian(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Neeraj"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Vijayalakshmi HR   &    Shilpa R"
+        }
+      ]
+    },
+    "4CSE29": {
+      "sectionCode": "4CSE29",
+      "proctorName": "Anusha",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Sushma P M"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Anusha"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Vijayalakshmi HR"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Shilpa R"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Chaithra HV"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Dr. Nagesh. R"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Dr.Krishnamurthy H"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Denny Andrews"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Anusha(B1 & B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Shilpa R(B2) /  Priya HM (B1)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Indrakumar D R(B1) / Amulya K (B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Ananth"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Anusha     &     Denny Andrews"
+        }
+      ]
+    },
+    "4CSE30": {
+      "sectionCode": "4CSE30",
+      "proctorName": "Chaithra HV",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Sushma P M"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Anusha"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Vijayalakshmi HR"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Shilpa R"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Chaithra HV"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Dr. Nagesh. R"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Dr.Krishnamurthy H"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Denny Andrews"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Vijayalakshmi HR(B1) / Anusha(B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "B Parkavi(B1& B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Chaithra HV(B1)/ Sneha Kadari(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BELSE408",
+          "courseName": "Life Skills for Engineers",
+          "shortCode": "LSE",
+          "faculty": "Neeraj"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Chaithra HV   &  Sahana N"
+        }
+      ]
+    },
+    "4CSE31": {
+      "sectionCode": "4CSE31",
+      "proctorName": "Kavya M",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Deepika R"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Veena N"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Pratap MS"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Kavya M"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Indrakumar D R"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Purushothama K"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Dr. Raghavendra Rao"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Roopa Banakar"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Veena N(B1)/ Panchami P M(B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Kavya M(B1 & B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Indrakumar D R(B1)/ Purushothama K(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BECSE408",
+          "courseName": "Cyber Law and Ethics",
+          "shortCode": "CLE",
+          "faculty": "Jagadamba T S"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Kavya M   &   Pratap MS"
+        }
+      ]
+    },
+    "4CSE32": {
+      "sectionCode": "4CSE32",
+      "proctorName": "Purushothama K",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Deepika R"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Veena N"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Pratap MS"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Kavya M"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Indrakumar D R"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Purushothama K"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Dr. Raghavendra Rao"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Roopa Banakar"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Veena N( B1& B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Kavya M( B1)/ Pratap MS (B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Indrakumar D R(B1)/ Purushothama K(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BECSE408",
+          "courseName": "Cyber Law and Ethics",
+          "shortCode": "CLE",
+          "faculty": "Jagadamba T S"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Purushothama K   &     Dr. Raghavendra Rao"
+        }
+      ]
+    },
+    "4CSE33": {
+      "sectionCode": "4CSE33",
+      "proctorName": "Veena N",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Deepika R"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Veena N"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Pratap MS"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Kavya M"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Indrakumar D R"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Purushothama K"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Dr. Raghavendra Rao"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Roopa Banakar"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Veena N(B2) /  Kh Jinnatul Islam (B1)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Pratap MS (B1 & B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Indrakumar D R(B1)/ Purushothama K(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BECSE408",
+          "courseName": "Cyber Law and Ethics",
+          "shortCode": "CLE",
+          "faculty": "Sahana N"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Veena N   &  Indrakumar"
+        }
+      ]
+    },
+    "4CSE34": {
+      "sectionCode": "4CSE34",
+      "proctorName": "Sheela CR",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Manoj Kumar CN"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Bhavya A"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Revathi"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Shruthi V Kulkarni"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Sheela CR"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Dr.Puttamadegowda"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Dr. Raghavendra Rao"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Roopa Banakar"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Bhavya A(B1 & B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Shruthi V Kulkarni( B1 & B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Sheela CR(B1) / Dr.Puttamadegowda(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BECSE408",
+          "courseName": "Cyber Law and Ethics",
+          "shortCode": "CLE",
+          "faculty": "Sahana N"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Sheela CR   &    Bhavya A"
+        }
+      ]
+    },
+    "4CSE35": {
+      "sectionCode": "4CSE35",
+      "proctorName": "Revathi B",
+      "subjects": [
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Bhavya A"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Revathi"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Shruthi V Kulkarni"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Sheela CR"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Dr.Puttamadegowda"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Dr. Raghavendra Rao"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Roopa Banakar"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Revathi(B1 & B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Priya Pandey(B1)  /  Roopa Banakar (B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Sheela CR(B1)/ Chaithra HV (B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BECSE408",
+          "courseName": "Cyber Law and Ethics",
+          "shortCode": "CLE",
+          "faculty": "Bhavya A"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Revathi B    &     Dr.Puttamadegowda"
+        }
+      ]
+    },
+    "4CSE36": {
+      "sectionCode": "4CSE36",
+      "proctorName": "Shruthi V Kulkarni",
+      "subjects": [
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Bhavya A"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Revathi"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Shruthi V Kulkarni"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Sheela CR"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Dr.Puttamadegowda"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Dr. Raghavendra Rao"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Roopa Banakar"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Bhavya A(B1)/ Revathi(B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Shruthi V Kulkarni(B1)/ Dr.Krishnamurthy(B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Sheela CR(B1) / Dr.Puttamadegowda(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BECSE408",
+          "courseName": "Cyber Law and Ethics",
+          "shortCode": "CLE",
+          "faculty": "Shaik Reshma"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Shruthi V Kulkarni  &  Roopa Banakar"
+        }
+      ]
+    },
+    "4CSE37": {
+      "sectionCode": "4CSE37",
+      "proctorName": "Panchami",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "KVRR Gari Neeraja"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Murthy B"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Panchami"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Swetha D"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Sneha I Kadri"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Vivek Sharma"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Shaik Reshma"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Vishwanath P"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Murthy B(B1) /  Ranganatha (B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Swetha D(B1 & B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Sneha I Kadri(B1)/ Vivek Sharma(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BECSE408",
+          "courseName": "Cyber Law and Ethics",
+          "shortCode": "CLE",
+          "faculty": "Radha G H"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Panchami  & Amulya K"
+        }
+      ]
+    },
+    "4CSE38": {
+      "sectionCode": "4CSE38",
+      "proctorName": "Swetha D",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "KVRR Gari Neeraja"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Murthy B"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Panchami"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Swetha D"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Sneha I Kadri"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Vivek Sharma"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Shaik Reshma"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Dr. Joe Prathap"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Murthy B(B1 & B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Roopa Banakar(B1) / Nagalakshmi (B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Sneha I Kadri(B1)/ Vivek Sharma(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BECSE408",
+          "courseName": "Cyber Law and Ethics",
+          "shortCode": "CLE",
+          "faculty": "Shaik Reshma"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Swetha D &  Vivek Sharma"
+        }
+      ]
+    },
+    "4CSE39": {
+      "sectionCode": "4CSE39",
+      "proctorName": "Sneha I Kadri",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "KVRR Gari Neeraja"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Murthy B"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Panchami"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Swetha D"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Sneha I Kadri"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Vivek Sharma"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Shaik Reshma"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Dr. Joe Prathap"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Panchami(B1)/ Murthy B(B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Denny Andrews (B1)/Swetha D(B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Sneha I Kadri(B1)/ Vivek Sharma(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BECSE408",
+          "courseName": "Cyber Law and Ethics",
+          "shortCode": "CLE",
+          "faculty": "Radha G H"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Sneha I Kadri     &   Murthy B"
+        }
+      ]
+    },
+    "4CSE40": {
+      "sectionCode": "4CSE40",
+      "proctorName": "Ganesha G",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Sumitra Devi M R"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Dr.Prasath Srinivasan"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Dr.Dhananjaya M K"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Nagalakshmi"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Prabodh C P"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Ganesha G"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Shaik Reshma"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Dr. Joe Prathap"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Dr.Prasath Srinivasan(B1) /  Chaithra KR (B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Nagalakshmi( B2) /  Vishnupriya (B1)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Chethana Ganga N S  (B1) / Vishwanath P (B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BECSE408",
+          "courseName": "Cyber Law and Ethics",
+          "shortCode": "CLE",
+          "faculty": "Sahana N"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Ganesha G   &     Dr.Prasath Srinivasan"
+        }
+      ]
+    },
+    "4CSE41": {
+      "sectionCode": "4CSE41",
+      "proctorName": "Nagalakshmi",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Sumitra Devi M R"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Dr.Prasath Srinivasan"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Dr. Anthony Raj"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Nagalakshmi"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Dr.Vanajakshi"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Ganesha G"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Shaik Reshma"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Dr. Joe Prathap"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Dr.Prasath Srinivasan(B1 & B2)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Nagalakshmi(B1)  /  Vikram (B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Prabodh C P (B1)/ D S Rakeshgowda(B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BECSE408",
+          "courseName": "Cyber Law and Ethics",
+          "shortCode": "CLE",
+          "faculty": "Radha G H"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Nagalakshmi   &   Radha G H"
+        }
+      ]
+    },
+    "4CSE42": {
+      "sectionCode": "4CSE42",
+      "proctorName": "Shaik Reshma",
+      "subjects": [
+        {
+          "slNo": 1,
+          "courseCode": "24BECSE401",
+          "courseName": "Discrete Mathematical Structures",
+          "shortCode": "DMS",
+          "faculty": "Sumitra Devi M R"
+        },
+        {
+          "slNo": 2,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAV",
+          "faculty": "Dr.Prasath Srinivasan"
+        },
+        {
+          "slNo": 3,
+          "courseCode": "24BECSE403",
+          "courseName": "Design and Analysis of Algorithms",
+          "shortCode": "DAA",
+          "faculty": "Dr.Dhananjaya M K"
+        },
+        {
+          "slNo": 4,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMS",
+          "faculty": "Nagalakshmi"
+        },
+        {
+          "slNo": 5,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USP",
+          "faculty": "Dr.Vanajakshi"
+        },
+        {
+          "slNo": 6,
+          "courseCode": "24BECSE406",
+          "courseName": "Cryptography and Network Security",
+          "shortCode": "CNS",
+          "faculty": "Ganesha G"
+        },
+        {
+          "slNo": 7,
+          "courseCode": "24BECSE411",
+          "courseName": "Distributed Computing",
+          "shortCode": "DC",
+          "faculty": "Shaik Reshma"
+        },
+        {
+          "slNo": 8,
+          "courseCode": "24BECSE413",
+          "courseName": "Multimedia Computing",
+          "shortCode": "MC",
+          "faculty": "Vishwanath P"
+        },
+        {
+          "slNo": 9,
+          "courseCode": "24BECSE402",
+          "courseName": "Data Analysis & Visualization",
+          "shortCode": "DAVL",
+          "faculty": "Shobha Rani(B2) / Shilpa Vijaykumar (B1)"
+        },
+        {
+          "slNo": 10,
+          "courseCode": "24BECSE404",
+          "courseName": "Database Management Systems",
+          "shortCode": "DBMSL",
+          "faculty": "Denny Andrews(B1 & B2)"
+        },
+        {
+          "slNo": 11,
+          "courseCode": "24BECSE405",
+          "courseName": "Unix Shell Programming",
+          "shortCode": "USPL",
+          "faculty": "Ganesha G(B1)/ Dr. Vanajakshi  (B2)"
+        },
+        {
+          "slNo": 12,
+          "courseCode": "24BECSE408",
+          "courseName": "Cyber Law and Ethics",
+          "shortCode": "CLE",
+          "faculty": "Shaik Reshma"
+        },
+        {
+          "slNo": 14,
+          "courseCode": "Proctor",
+          "courseName": "Ward Meeting",
+          "shortCode": "PWM",
+          "faculty": "Shaik Reshma   &    Priya HM"
+        }
+      ]
+    }
+  }
+}

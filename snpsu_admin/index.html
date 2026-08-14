@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SNPSU Admin Desktop</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="screen screen-loading" id="loading-screen">
+      <div class="loading-card">
+        <img src="snpsu_logo.png" alt="SNPSU Logo" class="loading-logo" />
+        <p class="loading-label">Loading admin workspace</p>
+        <div class="loading-bar">
+          <span class="loading-progress"></span>
+        </div>
+      </div>
+    </div>
+
+    <div class="screen screen-auth hidden" id="login-screen">
+      <div class="auth-layout">
+        <section class="brand-panel">
+          <div class="brand-panel__inner">
+            <img src="snpsu_logo.png" alt="SNPSU Logo" class="brand-logo" />
+            <p class="eyebrow">Admin and coordinator portal</p>
+            <h1>Section reporting, coordination, and oversight in one desktop app.</h1>
+            <p class="brand-copy">
+              Sign in with an approved admin or course coordinator account from PostgreSQL to review section coverage, faculty mapping, and downloadable attendance reports from the shared database.
+            </p>
+            <div class="brand-notes">
+              <div class="note-chip">Shared PostgreSQL data</div>
+              <div class="note-chip">Admin-only workflows</div>
+            </div>
+          </div>
+        </section>
+
+        <section class="login-panel">
+          <div class="login-card">
+            <p class="eyebrow">Admin login</p>
+            <h2>Welcome back</h2>
+            <p class="login-copy">
+              Enter the admin or coordinator name and password to open the reporting dashboard.
+            </p>
+
+            <form id="login-form" class="login-form">
+              <label class="field">
+                <span>Admin / Coordinator Name</span>
+                <input id="admin-name-input" name="adminName" type="text" placeholder="Enter admin name" required />
+              </label>
+
+              <label class="field">
+                <span>Password</span>
+                <input id="admin-password-input" name="password" type="password" placeholder="Enter password" required />
+              </label>
+
+              <button type="submit" class="primary-btn full-width">Sign In</button>
+              <p id="login-message" class="login-message" aria-live="polite"></p>
+            </form>
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <div class="screen screen-admin hidden" id="admin-screen">
+      <div class="dashboard-shell">
+        <aside class="sidebar">
+          <div class="sidebar-top">
+            <img src="snpsu_logo.png" alt="SNPSU Logo" class="sidebar-logo" />
+            <div class="teacher-identity">
+              <p class="eyebrow">Administrator</p>
+              <h2 id="admin-name">Administrator</h2>
+              <p id="admin-meta" class="sidebar-subtle">Section and faculty reporting console</p>
+            </div>
+          </div>
+
+          <nav class="nav-list">
+            <button class="nav-item active" id="admin-overview-nav-btn" type="button">Section Summary</button>
+            <button class="nav-item" id="admin-refresh-nav-btn" type="button">Refresh Data</button>
+            <button class="nav-item" id="admin-download-nav-btn" type="button">Report & Download</button>
+            <button class="nav-item" id="admin-edit-data-nav-btn" type="button">Edit Data</button>
+            <button class="nav-item" id="admin-timetable-nav-btn" type="button">Time Table</button>
+          </nav>
+
+          <div class="sidebar-card">
+            <p class="card-label">Admin note</p>
+            <h3 id="admin-sidebar-heading">Semester sections</h3>
+            <p id="admin-sidebar-copy">Review section strength, faculty mapping, and subject-wise attendance from one place.</p>
+          </div>
+        </aside>
+
+        <main class="content">
+          <section class="hero admin-hero">
+            <div>
+              <p class="eyebrow">Admin dashboard</p>
+              <h2>Coordinator reporting workspace</h2>
+              <p class="hero-copy" id="admin-hero-copy">
+                Review all section summaries, subject-wise faculty mappings, and downloadable attendance reports from the shared SNPSU database.
+              </p>
+            </div>
+
+            <div class="hero-actions">
+              <button class="primary-btn" id="admin-refresh-btn" type="button">Refresh Overview</button>
+              <button class="secondary-btn" id="admin-logout-btn" type="button">Log Out</button>
+            </div>
+          </section>
+
+          <div class="admin-page" id="admin-overview-page">
+            <section class="stats-grid">
+              <article class="panel stat-panel">
+                <p class="card-label">Sections</p>
+                <div class="metric" id="admin-section-count">0</div>
+                <p class="subtle">All sections available in PostgreSQL.</p>
+              </article>
+
+              <article class="panel stat-panel">
+                <p class="card-label">Faculty mapped</p>
+                <div class="metric" id="admin-faculty-count">0</div>
+                <p class="subtle">Unique faculty assignments across sections.</p>
+              </article>
+
+              <article class="panel stat-panel">
+                <p class="card-label">Students</p>
+                <div class="metric" id="admin-student-count">0</div>
+                <p class="subtle">Total students covered by the admin report.</p>
+              </article>
+            </section>
+
+            <section class="panel admin-overview-panel">
+              <div class="panel-head">
+                <div>
+                  <p class="card-label">All sections</p>
+                  <h3>Faculty and section summary</h3>
+                </div>
+                <span class="status-pill" id="admin-overview-pill">Waiting for admin data</span>
+              </div>
+
+              <div class="admin-section-grid" id="admin-section-grid"></div>
+            </section>
+          </div>
+
+          <div class="admin-page hidden" id="admin-report-page">
+            <section class="panel admin-report-panel">
+              <div class="panel-head">
+                <div>
+                  <p class="card-label">Section attendance report</p>
+                  <h3 id="admin-report-title">Section attendance matrix</h3>
+                </div>
+                <span class="status-pill" id="admin-report-pill">No section selected</span>
+              </div>
+
+              <div class="admin-report-toolbar">
+                <label class="field admin-field">
+                  <span>Select section</span>
+                  <select id="admin-section-select"></select>
+                </label>
+                <button class="secondary-page-btn" id="admin-load-report-btn" type="button">Load Report</button>
+                <button class="primary-btn" id="admin-download-report-btn" type="button">Download PDF</button>
+              </div>
+
+              <div class="admin-report-meta">
+                <div id="admin-report-summary" class="subtle">Choose a section to load the timetable-style report.</div>
+                <div class="admin-faculty-list" id="admin-faculty-list"></div>
+              </div>
+
+              <div class="admin-mapping-wrap">
+                <table class="attendance-table admin-mapping-table">
+                  <thead id="admin-mapping-head"></thead>
+                  <tbody id="admin-mapping-body"></tbody>
+                </table>
+              </div>
+            
+              <div class="table-wrap admin-report-wrap">
+                <table class="attendance-table admin-report-table">
+                  <thead id="admin-report-head"></thead>
+                  <tbody id="admin-report-body"></tbody>
+                </table>
+              </div>
+            </section>
+          </div>
+
+          <div class="admin-page hidden" id="admin-edit-page">
+            <section class="panel admin-edit-panel">
+              <div class="panel-head">
+                <div>
+                  <p class="card-label">Super admin editor</p>
+                  <h3>Edit students and faculty allocation</h3>
+                </div>
+                <span class="status-pill" id="admin-edit-pill">Choose a section</span>
+              </div>
+
+              <div class="admin-edit-toolbar">
+                <label class="field admin-field">
+                  <span>Select section</span>
+                  <select id="admin-edit-section-select"></select>
+                </label>
+                <button class="secondary-page-btn" id="admin-load-edit-btn" type="button">Load Data</button>
+              </div>
+
+              <div class="admin-edit-meta">
+                <div class="admin-edit-proctor-card">
+                  <div>
+                    <p class="card-label">Section settings</p>
+                    <h4 id="admin-edit-section-title">Section editor</h4>
+                    <p class="subtle" id="admin-edit-section-copy">
+                      Update student section mapping and faculty-course allocation here. Time slots stay unchanged.
+                    </p>
+                  </div>
+                  <div class="admin-edit-proctor-form">
+                    <label class="field admin-field">
+                      <span>Class advisor / Proctor</span>
+                      <input id="admin-edit-proctor-input" type="text" placeholder="Enter proctor name" />
+                    </label>
+                    <button class="secondary-page-btn" id="admin-save-proctor-btn" type="button">Save Proctor</button>
+                  </div>
+                </div>
+
+                <div class="admin-edit-reference panel-lite">
+                  <div class="admin-edit-reference__head">
+                    <div>
+                      <p class="card-label">Timetable reference</p>
+                      <h4>Course allocation preview</h4>
+                    </div>
+                    <span class="subtle">Latest reference only, time slots remain default.</span>
+                  </div>
+                  <div class="table-wrap">
+                    <table class="attendance-table admin-edit-reference-table">
+                      <thead id="admin-edit-reference-head"></thead>
+                      <tbody id="admin-edit-reference-body"></tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+
+              <div class="admin-edit-grid">
+                <section class="panel-lite">
+                  <div class="panel-head">
+                    <div>
+                      <p class="card-label">Students</p>
+                      <h4>Student section editor</h4>
+                    </div>
+                    <button class="primary-btn" id="admin-save-students-btn" type="button">Save Students</button>
+                  </div>
+                  <p class="subtle admin-edit-helper">
+                    Move students between sections or correct student details here.
+                  </p>
+                  <div class="table-wrap">
+                    <table class="attendance-table admin-edit-table">
+                      <thead id="admin-edit-students-head"></thead>
+                      <tbody id="admin-edit-students-body"></tbody>
+                    </table>
+                  </div>
+                </section>
+
+                <section class="panel-lite">
+                  <div class="panel-head">
+                    <div>
+                      <p class="card-label">Faculty allocation</p>
+                      <h4>Subject, code, and faculty mapping</h4>
+                    </div>
+                    <div class="admin-inline-actions">
+                      <button class="secondary-page-btn" id="admin-add-assignment-row-btn" type="button">Add Row</button>
+                      <button class="primary-btn" id="admin-save-assignments-btn" type="button">Save Allocation</button>
+                    </div>
+                  </div>
+                  <p class="subtle admin-edit-helper">
+                    Edit subject code, subject name, short code, faculty, batch, and section allocation for the selected section.
+                  </p>
+                  <div class="table-wrap">
+                    <table class="attendance-table admin-edit-table">
+                      <thead id="admin-edit-assignments-head"></thead>
+                      <tbody id="admin-edit-assignments-body"></tbody>
+                    </table>
+                  </div>
+                </section>
+              </div>
+            </section>
+          </div>
+
+          <div class="admin-page hidden" id="admin-timetable-page">
+            <section class="panel admin-timetable-panel">
+              <div class="panel-head">
+                <div>
+                  <p class="card-label">Timetable builder</p>
+                  <h3>Create and update one-page timetable</h3>
+                </div>
+                <span class="status-pill" id="admin-timetable-pill">Choose a section</span>
+              </div>
+
+              <div class="admin-timetable-toolbar">
+                <label class="field admin-field">
+                  <span>Select section</span>
+                  <select id="admin-timetable-section-select"></select>
+                </label>
+                <button class="secondary-page-btn" id="admin-load-timetable-btn" type="button">Load Time Table</button>
+                <button class="secondary-page-btn" id="admin-save-timetable-draft-btn" type="button">Save Draft</button>
+                <button class="primary-btn" id="admin-download-timetable-btn" type="button">Download PDF</button>
+              </div>
+
+              <p class="subtle" id="admin-timetable-summary">
+                Use this workspace to build a fresh timetable PDF with the same one-page layout as the reference format.
+              </p>
+
+              <div class="admin-timetable-sheet" id="admin-timetable-sheet"></div>
+            </section>
+          </div>
+          
+        </main>
+      </div>
+    </div>
+
+    <script src="renderer.js"></script>
+  </body>
+</html>

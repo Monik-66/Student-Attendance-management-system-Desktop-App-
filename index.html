@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>SNPSU Teacher Desktop</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="screen screen-loading" id="loading-screen">
+      <div class="loading-card">
+        <img src="snpsu_logo.png" alt="SNPSU Logo" class="loading-logo" />
+        <p class="loading-label">Loading teacher workspace</p>
+        <div class="loading-bar">
+          <span class="loading-progress"></span>
+        </div>
+      </div>
+    </div>
+
+    <div class="screen screen-auth hidden" id="login-screen">
+      <div class="auth-layout">
+        <section class="brand-panel">
+          <div class="brand-panel__inner">
+            <img src="snpsu_logo.png" alt="SNPSU Logo" class="brand-logo" />
+            <p class="eyebrow">Teacher desktop portal</p>
+            <h1>Academic control center for faculty operations.</h1>
+            <p class="brand-copy">
+              Sign in to manage section-wise attendance, course status, assignment review, and daily teaching tasks.
+            </p>
+            <div class="brand-notes">
+              <div class="note-chip">Semester 4</div>
+              
+              <div class="note-chip">Secure local login flow</div>
+            </div>
+          </div>
+        </section>
+
+        <section class="login-panel">
+          <div class="login-card">
+            <p class="eyebrow">Teacher login</p>
+            <h2>Welcome back</h2>
+            <p class="login-copy">
+              Enter your teacher name and teacher SRN to continue into the dashboard. After one online login, this device can open the cached workspace offline and sync attendance later.
+            </p>
+
+            <form id="login-form" class="login-form">
+              <label class="field">
+                <span>Teacher Name</span>
+                <input
+                  id="teacher-name-input"
+                  name="teacherName"
+                  type="text"
+                  placeholder="Enter faculty name"
+                  autocomplete="username"
+                  required
+                />
+              </label>
+
+              <label class="field">
+                <span>Teacher SRN</span>
+                <input
+                  id="teacher-id"
+                  name="teacherId"
+                  type="text"
+                  placeholder="Enter faculty SRN"
+                  autocomplete="off"
+                  required
+                />
+              </label>
+
+              <button type="submit" class="primary-btn full-width">Sign In</button>
+              <p id="login-message" class="login-message" aria-live="polite"></p>
+            </form>
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <div class="screen screen-dashboard hidden" id="dashboard-screen">
+      <div class="dashboard-shell">
+        <aside class="sidebar">
+          <div class="sidebar-top">
+            <img src="snpsu_logo.png" alt="SNPSU Logo" class="sidebar-logo" />
+            <div class="teacher-identity">
+              <p class="eyebrow">Logged in as</p>
+              <h2 id="teacher-name">Faculty</h2>
+              <p id="teacher-meta" class="sidebar-subtle">Department of Computer Science</p>
+            </div>
+          </div>
+
+          <nav class="nav-list">
+            <button class="nav-item active" id="dashboard-nav-btn" data-nav-target="dashboard">Dashboard</button>
+            <button class="nav-item" id="my-sections-nav-btn" data-nav-target="sections">My Sections</button>
+            <button class="nav-item" id="attendance-nav-btn" data-nav-target="attendance">Attendance</button>
+            <button class="nav-item">Assignments</button>
+            <button class="nav-item">Results</button>
+            <button class="nav-item">Messages</button>
+          </nav>
+
+          <div class="sidebar-card">
+            <p class="card-label">Today</p>
+            <h3 id="today-classes-count">3 active sections</h3>
+            <p id="today-summary">Attendance data will load after sign-in.</p>
+          </div>
+        </aside>
+
+        <main class="content">
+          <section class="hero">
+            <div>
+              <p class="eyebrow">Teacher dashboard</p>
+              <h2 id="welcome-title">Welcome</h2>
+              <p class="hero-copy" id="hero-copy">
+                Your assigned sections and course details will appear after a successful sign-in.
+              </p>
+            </div>
+
+            <div class="hero-actions">
+              <label class="field compact-field subject-field">
+                <span>Active subject</span>
+                <select id="dashboard-subject-select"></select>
+              </label>
+              <button class="primary-btn" id="mark-attendance-btn">Mark Attendance</button>
+              <button class="secondary-btn" id="logout-btn">Log Out</button>
+            </div>
+          </section>
+
+          <section class="panel onboarding-panel">
+            <div>
+              <p class="card-label">Database source</p>
+              <h3>Students come only from PostgreSQL</h3>
+              <p class="subtle" id="db-note">
+                Add student rows into the `students` table for each section. The desktop app no longer stores student names in code.
+              </p>
+            </div>
+          </section>
+
+          <section class="stats-grid">
+            <article class="panel stat-panel">
+              <p class="card-label">Sections</p>
+              <div class="metric" id="section-count">3</div>
+              <p class="subtle">Assigned classroom groups for this teacher account.</p>
+            </article>
+
+            <article class="panel stat-panel">
+              <p class="card-label">Attendance</p>
+              <div class="metric" id="attendance-rate">92%</div>
+              <p class="subtle">Combined attendance across all handled sections.</p>
+            </article>
+
+            <article class="panel stat-panel">
+              <p class="card-label">Pending review</p>
+              <div class="metric" id="pending-count">18</div>
+              <p class="subtle">Student attendance marks not finalized yet.</p>
+            </article>
+          </section>
+
+          <section class="dashboard-grid">
+            <article class="panel panel-wide">
+              <div class="panel-head">
+                <div>
+                  <p class="card-label">Assigned sections</p>
+                  <h3>Your handled classes</h3>
+                </div>
+                <span class="status-pill">Faculty active</span>
+              </div>
+              <div id="section-cards" class="section-grid"></div>
+            </article>
+
+            <article class="panel attendance-panel panel-span-2">
+              <div class="panel-head">
+                <div>
+                  <p class="card-label">Attendance register</p>
+                  <h3 id="register-title">DBMS | 4CSE20</h3>
+                </div>
+                <span class="status-pill" id="register-summary">Present 0 | Absent 0</span>
+              </div>
+
+              <div class="section-switcher" id="section-switcher"></div>
+
+              <div class="register-header">
+                <div>
+                  <strong id="active-section-heading">Section 4CSE20 overview</strong>
+                  <p class="subtle" id="active-section-subtitle">Switch between sections to view the related attendance details.</p>
+                </div>
+                <button class="primary-btn register-save-btn" id="open-attendance-page-btn">Add Today's Attendance</button>
+              </div>
+
+              <div id="attendance-overview" class="attendance-overview"></div>
+            </article>
+
+            <article class="panel">
+              <p class="card-label">Faculty notes</p>
+              <h3>workflow</h3>
+              <div class="quick-actions">
+                <button class="quick-action">Complete attendance before each hour</button>
+                <button class="quick-action">Review low-attendance students weekly</button>
+                <button class="quick-action">Update internal marks after assignment review</button>
+                <button class="quick-action">Download section-wise attendance report</button>
+              </div>
+            </article>
+          </section>
+        </main>
+      </div>
+    </div>
+
+    <div class="screen screen-sections hidden" id="sections-screen">
+      <div class="dashboard-shell">
+        <aside class="sidebar">
+          <div class="sidebar-top">
+            <img src="snpsu_logo.png" alt="SNPSU Logo" class="sidebar-logo" />
+            <div class="teacher-identity">
+              <p class="eyebrow">Section analytics</p>
+              <h2 id="sections-teacher-name">Faculty</h2>
+              <p id="sections-teacher-meta" class="sidebar-subtle">Attendance risk dashboard</p>
+            </div>
+          </div>
+
+          <nav class="nav-list">
+            <button class="nav-item" id="sections-dashboard-nav-btn" data-nav-target="dashboard">Dashboard</button>
+            <button class="nav-item active" id="sections-my-sections-nav-btn" data-nav-target="sections">My Sections</button>
+            <button class="nav-item" id="sections-attendance-nav-btn" data-nav-target="attendance">Attendance</button>
+            <button class="nav-item">Assignments</button>
+            <button class="nav-item">Results</button>
+            <button class="nav-item">Messages</button>
+          </nav>
+
+          <div class="sidebar-card">
+            <p class="card-label">Low attendance</p>
+            <h3 id="sections-risk-count">0 students</h3>
+            <p id="sections-risk-note">Students below 75% will appear here after attendance is loaded.</p>
+          </div>
+        </aside>
+
+        <main class="content">
+          <section class="hero sections-hero">
+            <div>
+              <p class="eyebrow">My sections</p>
+              <h2>Attendance analysis dashboard</h2>
+              <p class="hero-copy" id="sections-analysis-copy">
+                Review each assigned section and quickly identify students below the 75% attendance requirement.
+              </p>
+            </div>
+
+            <div class="hero-actions">
+              <label class="field compact-field subject-field">
+                <span>Active subject</span>
+                <select id="sections-subject-select"></select>
+              </label>
+              <button class="primary-btn" id="refresh-sections-analysis-btn">Refresh Analysis</button>
+              <button class="secondary-btn" id="sections-back-dashboard-btn">Dashboard</button>
+            </div>
+          </section>
+
+          <section class="stats-grid sections-stats-grid">
+            <article class="panel stat-panel">
+              <p class="card-label">Assigned sections</p>
+              <div class="metric" id="analysis-section-count">0</div>
+              <p class="subtle">Sections mapped to this faculty account.</p>
+            </article>
+
+            <article class="panel stat-panel">
+              <p class="card-label">Average attendance</p>
+              <div class="metric" id="analysis-average-rate">0%</div>
+              <p class="subtle">Average across sections with saved attendance dates.</p>
+            </article>
+
+            <article class="panel stat-panel danger-stat">
+              <p class="card-label">Below 75%</p>
+              <div class="metric" id="analysis-low-count">0</div>
+              <p class="subtle">Students who need attendance follow-up.</p>
+            </article>
+          </section>
+
+          <section class="sections-analysis-grid" id="sections-analysis-grid">
+            <article class="panel">
+              <p class="subtle">Loading section analytics from PostgreSQL...</p>
+            </article>
+          </section>
+        </main>
+      </div>
+    </div>
+
+    <div class="screen screen-attendance hidden" id="attendance-page-screen">
+      <main class="attendance-page">
+        <section class="attendance-page__hero panel">
+          <div>
+            <p class="eyebrow">Today's attendance</p>
+            <h2 id="attendance-page-title">DBMS | 4CSE20</h2>
+            <p class="hero-copy" id="attendance-page-subtitle">
+              Semester 4 attendance table for 60 students with SRN, today's status, and total present.
+            </p>
+          </div>
+          <div class="hero-actions">
+            <label class="field compact-field subject-field">
+              <span>Active subject</span>
+              <select id="attendance-subject-select"></select>
+            </label>
+            <button class="secondary-page-btn" id="back-to-dashboard-btn">Back to Dashboard</button>
+          </div>
+        </section>
+
+        <section class="panel date-control-panel">
+          <div class="date-control-copy">
+            <p class="card-label">Attendance date</p>
+            <h3>Load one date column from the calendar</h3>
+            <p class="subtle" id="date-mode-note">
+              Choose a new date to enter attendance. Existing dates stay locked until you reset that same column.
+            </p>
+          </div>
+          <div class="date-controls">
+            <label class="field">
+              <span>Attendance date</span>
+              <input id="attendance-date-picker" type="date" />
+            </label>
+            <button class="secondary-page-btn" id="load-date-btn">Load Date</button>
+            <button class="danger-page-btn" id="delete-date-btn" type="button">Delete Selected Date</button>
+          </div>
+        </section>
+
+        <section class="panel attendance-table-panel">
+          <div class="panel-head">
+            <div>
+              <p class="card-label">Section table</p>
+              <h3 id="attendance-table-heading">4CSE20 Student Register</h3>
+            </div>
+            <span class="status-pill" id="attendance-table-summary">Present 0 | Absent 0</span>
+          </div>
+
+          <div class="table-wrap">
+            <table class="attendance-table">
+              <thead id="attendance-table-head"></thead>
+              <tbody id="attendance-table-body"></tbody>
+            </table>
+          </div>
+
+          <div class="table-actions">
+            <button class="primary-btn" id="save-attendance-page-btn" type="button">Submit Attendance</button>
+          </div>
+        </section>
+      </main>
+    </div>
+
+    <div class="modal-overlay hidden" id="absentee-modal" aria-hidden="true">
+      <div class="modal-card absentee-modal-card" role="dialog" aria-modal="true" aria-labelledby="absentee-modal-title">
+        <div class="panel-head absentee-modal-head">
+          <div>
+            <p class="card-label">Attendance submitted</p>
+            <h3 id="absentee-modal-title">Recently Submitted Absentees</h3>
+            <p class="subtle" id="absentee-modal-subtitle">Absentee details will appear here after attendance is submitted.</p>
+          </div>
+          <button class="secondary-page-btn absentee-close-btn" id="absentee-modal-close-btn" type="button">Close</button>
+        </div>
+
+        <div class="absentee-summary-strip" id="absentee-modal-summary"></div>
+
+        <div class="absentee-table-wrap">
+          <table class="attendance-table absentee-table">
+            <thead>
+              <tr>
+                <th>Sl. No.</th>
+                <th>SRN</th>
+                <th>Name</th>
+                <th>Parent Contact</th>
+                <th>Gender</th>
+                <th>Absent Date</th>
+              </tr>
+            </thead>
+            <tbody id="absentee-modal-body"></tbody>
+          </table>
+        </div>
+
+        <div class="table-actions absentee-actions">
+          <button class="secondary-page-btn" id="absentee-send-sms-btn" type="button">Send SMS</button>
+          <button class="primary-btn" id="absentee-call-btn" type="button">Call (AI Agent)</button>
+        </div>
+      </div>
+    </div>
+
+    <script src="renderer.js"></script>
+  </body>
+</html>

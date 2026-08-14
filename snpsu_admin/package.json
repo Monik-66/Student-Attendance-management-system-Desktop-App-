@@ -1,0 +1,28 @@
+{
+  "name": "snpsu-admin-desktop",
+  "version": "1.0.0",
+  "description": "Admin and coordinator desktop app built with Electron.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "start:api": "node server.js",
+    "start:desktop": "electron ."
+  },
+  "keywords": [
+    "electron",
+    "admin",
+    "coordinator",
+    "desktop-app"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^37.0.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "pg": "^8.20.0",
+    "tslib": "^2.8.1"
+  }
+}

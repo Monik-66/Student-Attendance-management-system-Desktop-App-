@@ -1,0 +1,28 @@
+.env
+.env.*
+!.env.example
+
+node_modules/
+coverage/
+.DS_Store
+Thumbs.db
+*.log
+npm-debug.log*
+
+# OS / editor folders
+.vscode/
+.idea/
+
+# build artifacts
+/dist/
+/build/
+/out/
+
+# local runtime caches
+.cache/
+*.tmp
+
+# database / generated local data
+*.sqlite
+*.sqlite3
+rendered_report/
