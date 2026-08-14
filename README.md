@@ -1,6 +1,6 @@
 # SNPSU Teacher Desktop
 
-A desktop attendance and academic workflow application for faculty and admin use at SNPSU. The project combines an Electron frontend with a Node.js/Express API and PostgreSQL-backed data access for attendance tracking, section summaries, admin reporting, and elective-aware student filtering.
+A desktop attendance and academic workflow application for faculty and admin use. This project combines an Electron frontend with a Node.js/Express API and PostgreSQL-backed data access for attendance tracking, section summaries, admin reporting, and elective-aware student filtering.
 
 ## Overview
 
@@ -23,7 +23,6 @@ The app supports a teacher-facing desktop interface and a separate admin workflo
 - Express
 - PostgreSQL
 - dotenv
-- Twilio integration for SMS-ready workflows
 
 ## Project Structure
 
@@ -35,7 +34,7 @@ The app supports a teacher-facing desktop interface and a separate admin workflo
 - `db.js` — PostgreSQL database layer
 - `schema.sql` — core database tables and schema
 - `create_database.sql` — database bootstrap script
-- `seed_students.sql` — sample data seeds
+- `seed_students.sql` — sample seed data for local testing
 - `reset_schema.js` — schema reset utility
 - `offline-store.js` — offline caching logic
 - `api-client.js` — API helper usage
@@ -104,29 +103,18 @@ The app expects variables similar to:
 - `PGUSER`
 - `PGPASSWORD`
 - `PGSSL`
-- `UNIVERSITY_NAME`
-- `OZEKI_API_URL`
-- `OZEKI_USERNAME`
-- `OZEKI_PASSWORD`
-- `OZEKI_ORIGINATOR`
-- `OZEKI_DEFAULT_COUNTRY_CODE`
 
 See `.env.example` for the full configuration template.
 
-## GitHub Upload Tips
+## Public Repository Notes
 
-To keep the repository clean before publishing:
+This repository is prepared for GitHub upload. Before publishing:
 
-- commit only source code and project config,
-- keep secrets out of version control,
-- use `.env.example` as the template for required variables,
-- avoid committing generated database or runtime artifacts,
-- include a clear README and license for public use.
+- do not commit your real `.env` file,
+- do not commit real student, teacher, or parent contact data,
+- replace local sample data with sanitized test records,
+- keep database credentials and runtime artifacts out of version control.
 
 ## License
 
 This project is licensed under the MIT License.
-
-## Notes
-
-This repository is intended to be a project-ready upload for GitHub. The project already contains a working local setup and app utilities, but you should review environment secrets and local PostgreSQL connection values before making the repo public.
