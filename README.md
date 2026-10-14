@@ -1,4 +1,4 @@
-# SNPSU Teacher Desktop
+# Teacher Desktop App
 
 A desktop attendance and academic workflow application for faculty and admin use. This project combines an Electron frontend with a Node.js/Express API and PostgreSQL-backed data access for attendance tracking, section summaries, admin reporting, and elective-aware student filtering.
 
